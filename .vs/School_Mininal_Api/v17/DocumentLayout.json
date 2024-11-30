@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\api .net\\School_Mininal_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|d:\\api .net\\school_mininal_api\\school_mininal_api\\models\\diciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\models\\diciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\routes\\teacherendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\routes\\teacherendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\routes\\studentsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\routes\\studentsendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\extensions\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\extensions\\builderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\extensions\\appextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\extensions\\appextencion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|D:\\api .net\\School_Mininal_Api\\school_mininal_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FA6370B3-8988-4305-8030-6FCAF4347AFC}|School_Mininal_Api\\School_Mininal_Api.csproj|solutionrelative:school_mininal_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Diciplina.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Models\\Diciplina.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Models\\Diciplina.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Models\\Diciplina.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Models\\Diciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:23:52.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuilderExtensions.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Extensions\\BuilderExtensions.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Extensions\\BuilderExtensions.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Extensions\\BuilderExtensions.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Extensions\\BuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:23:05.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Models\\Professor.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Models\\Professor.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Models\\Professor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:22:55.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Program.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Program.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Program.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T00:22:27.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Data\\Context.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Data\\Context.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Data\\Context.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:19:45.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Data\\Repository.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Data\\Repository.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Data\\Repository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:01:08.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Data\\IRepository.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Data\\IRepository.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Data\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:01:02.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeacherEndpoints.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Routes\\TeacherEndpoints.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Routes\\TeacherEndpoints.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Routes\\TeacherEndpoints.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Routes\\TeacherEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:49:06.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\appsettings.Development.json",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\appsettings.Development.json",
+              "RelativeToolTip": "School_Mininal_Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T13:44:22.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentsEndpoints.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Routes\\StudentsEndpoints.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Routes\\StudentsEndpoints.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Routes\\StudentsEndpoints.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Routes\\StudentsEndpoints.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:36:32.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppExtencion.cs",
+              "DocumentMoniker": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Extensions\\AppExtencion.cs",
+              "RelativeDocumentMoniker": "School_Mininal_Api\\Extensions\\AppExtencion.cs",
+              "ToolTip": "D:\\api .net\\School_Mininal_Api\\School_Mininal_Api\\Extensions\\AppExtencion.cs",
+              "RelativeToolTip": "School_Mininal_Api\\Extensions\\AppExtencion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T13:26:50.726Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

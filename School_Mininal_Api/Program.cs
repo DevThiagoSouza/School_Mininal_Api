@@ -1,0 +1,27 @@
+using School_Mininal_Api.Extensions;
+using School_Mininal_Api.Routes;
+
+var builder = WebApplication.CreateBuilder(args);
+
+// Add services to the container.
+// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder
+    .AddBuilder()
+    .AddService();
+
+var app = builder.Build();
+
+// Configure the HTTP request pipeline.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+app.UseHttpsRedirection();
+app.MapStudentsEndpoints();
+app.MapTeacherEndpoints();
+app.Run();
+
+
